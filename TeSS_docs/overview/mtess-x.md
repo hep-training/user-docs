@@ -1,5 +1,7 @@
 # mTeSS-X
 
+_Project dates: 1 Oct 2024 - 30 Sep 2026_
+
 ## Scaling training portal federation for RIs through Multi-tenanting and Exchange
 
 ::::{grid} 1 1 2 2 

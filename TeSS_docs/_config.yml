@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : TeSS Platform Documentation  # The title of the book. Will be placed in the left navbar.
-author                      : Phil Reed, Munazah Andrabi, Finn Bacall, Kenneth Rioja, Martin Voigt, Oliver Knodel, Carole Goble (OSCARS mTeSS-X project)
+author                      : Phil Reed, Munazah Andrabi, Finn Bacall, Kenneth Rioja, Martin Voigt, Valentin Ryckert, Oliver Knodel, Carole Goble (OSCARS mTeSS-X project)
 copyright                   : "2025-2026"  # Copyright year to be placed in the footer
 logo                        : images/logo.png  # A path to the book logo
 

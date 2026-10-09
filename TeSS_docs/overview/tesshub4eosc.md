@@ -1,5 +1,7 @@
 # TeSSHub4EOSC
 
+_Project dates: 6 May 2026 - 6 Nov 2026_
+
 ## Training registry for EOSC nodes and science clusters
 
 [Twenty-three projects have been awarded nearly €1.15 million](https://eosc.eu/news/twenty-three-projects-receive-funding-under-eosc-gravity) under [EOSC Gravity](https://eosc.eu/eosc-gravity) to support the preparatory work of potential future EOSC Nodes, and expand the services offered through the [EOSC Federation](https://eosc.eu/building-the-eosc-federation).

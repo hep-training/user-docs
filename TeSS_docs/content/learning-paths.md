@@ -26,9 +26,9 @@ Governance: Maintaining the learning path
 
  ```{topic}  Creating ELIXIR Learning Paths
  
-If you would like to create an ELIXIR Learning Path, [please complete this form](https://docs.google.com/forms/d/e/1FAIpQLSeZcoZyxsDpneV7fidqXhKCPeKuQe9fW8eZkl7geyQ2oU7q-A/viewform?usp=sharing&ouid=108152593873011990548).
+If you would like to create an ELIXIR Learning Path, [please complete this form](https://forms.cloud.microsoft/e/yyBC4fuz9T).
 ELIXIR Learning Paths follow a Standard Operating Procedure (SOP) to ensure quality, consistency, and long-term sustainability. 
-[Further details about the process are available here.](https://docs.google.com/document/d/10IwJeTXViT1wNHMyfNhUQhSD1p1NCWdOj_Q6sw_SAWk/edit?usp=sharing)
+[Further details about the process are available here.](https://zenodo.org/records/21822148)
 
 After you submit the form, a member of the ELIXIR Learning Paths Editorial Board will contact you to discuss your proposal and outline the next steps.
 ```
