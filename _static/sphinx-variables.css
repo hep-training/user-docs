@@ -1,0 +1,21 @@
+/* Custom CSS variables: see https://sphinx-design.readthedocs.io/en/latest/css_variables.html and https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/styling.html */
+
+html[data-theme="light"] {
+    --pst-color-primary: #F47D21;
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary: #F47D21;
+}
+
+html[data-theme="light"] {
+    --pst-color-secondary: #047eaa;
+}
+
+html[data-theme="dark"] {
+    --pst-color-secondary: #047eaa;
+}
+
+h1, h2, h3 {
+    --pst-font-family-heading: "PlusJakartaSans-VariableFont_wght", "Segoe UI", "Helvetica Neue", "Arial", sans-serif;
+}
