@@ -1,45 +1,24 @@
-# About the TeSS community
-
-## TeSS Club
-
-The TeSS Club brings the community together through fortnightly meetings, hackathons, shared activities, open priority setting and open contribution.
-
-For further details, visit the [TeSS Club website](https://elixirtess.github.io/about/).
+# About
 
 ## Contact
 
-For enquiries, information or assistance, contact the TeSS support desk at [tess-support@googlegroups.com](mailto:tess-support@googlegroups.com).
+For enquiries, information or assistance, contact the HEP Training support
+
+- [contact.heptraining@cern.ch](mailto:contact.heptraining@cern.ch).
 
 ## Team
 
-### Leadership
+- [Stefan Roiser](mailto:stefan.roiser@cern.ch) (Leadership)
+- [Kenneth Rioja](mailto:kenneth.brian.rioja@cern.ch) (Admin, Maintenance, Development)
 
-- Carole Goble
-- Hedi Peterson
+## HEP Training Forums
 
-### Project management
+The HEP Training team brings the community together through a forum to be up-to-date with the recent development in HEP Training as well as gathering the community needs for future improvements.
 
-- Munazah Andrabi
-- Phil Reed
+- HEP Training Forum #1, 27 August 2026, [indico](https://indico.cern.ch/event/1719118/)
+- TBD...
 
-### Software engineering
+## Outreach
 
-- Finn Bacall
-- Ivan Kuzmin
-
-### Community engagement
-
-- Alexander Botzki
-- Olivier Sand
-
-### Past members
-
-- Aleksandra Nenadic, project management and software engineering
-- Aleksandra Pawlik, project management
-- Teresa K. Attwood, leadership
-- Susanna-Assunta Sansone, leadership
-- Niall Beard, project management and software engineering
-- Milo Thurston, software engineering
-- Chris Child, project management and software engineering
-- Aitor Apaolaza, software engineering
-- Alexia Cardona, leadership
+- 8th Open Science Practitioners Forum: Training and Onboarding, 3 June 2026, [indico](https://indico.cern.ch/event/1684734/)
+- 28th Conference on Computing in High Energy and Nuclear Physics, CHEP 2026, 28 May 2026, [indico](https://indico.cern.ch/event/1471803/contributions/6968293/)

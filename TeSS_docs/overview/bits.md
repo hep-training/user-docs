@@ -20,7 +20,7 @@ TeSS plays an important role in supporting research by making training more visi
 
 [Bioconductor](https://www.bioconductor.org/) is a widely used open‑source ecosystem for analysing genomics and biomedical data, with strong uptake across UK research and training programmes. However, training materials for Bioconductor are currently spread across many websites and platforms (such as GitHub, Zenodo, YouTube, and course providers). Because these resources are not automatically collected by TeSS, they can be difficult to find, and significant manual effort is required to curate them.
 
-This project will address this problem by improving how TeSS gathers (or “ingests”) training information. It will develop a standardised, automated way to collect Bioconductor training materials and events, using internationally recognised metadata standards ([Bioschemas](https://bioschemas.org/) and JSON‑LD). Rather than creating new features, this work focuses on maintaining and improving existing systems to make them more reliable, scalable, and sustainable. Bioconductor will act as a pilot case for improving how TeSS supports large, community‑driven training ecosystems.
+This project will address this problem by improving how TeSS gathers (or "ingests”) training information. It will develop a standardised, automated way to collect Bioconductor training materials and events, using internationally recognised metadata standards ([Bioschemas](https://bioschemas.org/) and JSON‑LD). Rather than creating new features, this work focuses on maintaining and improving existing systems to make them more reliable, scalable, and sustainable. Bioconductor will act as a pilot case for improving how TeSS supports large, community‑driven training ecosystems.
 
 
 ##  Scientific impact

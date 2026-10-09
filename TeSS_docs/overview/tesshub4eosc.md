@@ -21,8 +21,6 @@ By automating the harvesting, standardisation, and exposure of metadata from div
 
 The primary outcome will be a central TeSSHub instance complementing [discipline-specific catalogues](global) like ELIXIR TeSS and PaN-Training. This instance will allow EOSC nodes, communities, science clusters, and competence centers to create custom-branded views or spaces with their own content, without maintaining separate infrastructure. The solution will also support the EOSC Academy, fostering scalable and sustainable access to training materials across EOSC.
 
-
-
 ## Scientific impact
 
-TeSSHub4EOSC directly supports EU Open Science policy and EOSC Federation objectives by tackling three critical priorities: data interoperability, FAIR compliance, and cross-disciplinary training access. The project aligns with the EU’s Digital Decade targets and the European Research Area (ERA) Policy Agenda, both of which call for seamless access to research data and infrastructures. By consolidating fragmented training resources into a unified, FAIR-aligned catalogue, it ensures that training materials are findable, accessible, interoperable, and reusable across European research infrastructures.
+TeSSHub4EOSC directly supports EU Open Science policy and EOSC Federation objectives by tackling three critical priorities: data interoperability, FAIR compliance, and cross-disciplinary training access. The project aligns with the EU's Digital Decade targets and the European Research Area (ERA) Policy Agenda, both of which call for seamless access to research data and infrastructures. By consolidating fragmented training resources into a unified, FAIR-aligned catalogue, it ensures that training materials are findable, accessible, interoperable, and reusable across European research infrastructures.

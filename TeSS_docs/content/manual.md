@@ -1,3 +1,0 @@
-# Manual content registration
-```{tableofcontents}
-```

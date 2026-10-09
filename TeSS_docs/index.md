@@ -1,181 +1,20 @@
-# Welcome to the HEP Training documentation!
+# HEP Training User Documentation
 
-This documentation is intended to provide help on how to use the HEP Training platform (heptraining.cern.ch).
+HEP Training (heptraining.cern.ch) is a catalogue providing a one-stop shop for trainers and trainees to upload and discover training materials and events.
 
-## About HEP Training
+- For trainees, the platform offers a convenient gateway via which to identify relevant training events and resources made by the community;
+- for trainers, the portal offers an environment for sharing materials and event information;
+- for training providers, HEP Training provides opportunities to promote training events and news, and to contribute to a growing catalogue of materials.
 
-::::{grid} 1 1 2 3
-:class-container: text-center
-:gutter: 3
+HEP Training *is not hosting the resources*, it is a metadata registry/hub to centralize scattered training resources. Our goal is to shed light on valuable trainings made within the HEP community.
 
-:::{grid-item-card}
-:link: overview/tess
-:link-type: doc
+## Originated from TeSS, developed through mTeSS-X and EVERSE
 
-**Introduction**
-^^^
+The catalogue originates from the open-source platform [TeSS (Training e-Support Service)](https://github.com/ElixirTeSS/TeSS) which is developed and maintained by [ELIXIR](https://elixir-europe.org/), Europe's distributed infrastructure for life-science data. Over the last decade, the [ELIXIR TeSS instance](https://tess.elixir-europe.org/) has matured in a comprehensive training catalogue featuring more than 3'500 training materials and 10'000 events.
 
-The origin of HEP Training: TeSS
-:::
+HEP Training has been part of two European projects, namely [mTeSS-X](mtess-x) and [EVERSE](https://everse.software/).
 
-:::{grid-item-card}
-:link: overview/global
-:link-type: doc
+- mTeSS-X (Multi-space Training e-Support System with eXchange) aims to overcome the fragmentation of training resources across Research Infrastructures and the European Science Clusters. This has been done by enhancing the existing TeSS application by developping the [multi-space](../spaces/introduction-spaces) and the [exchange](../content/exchange) features – both now fully  integrated in HEP Training.
+- EVERSE (European Virtual Institute for Research Software Excellence) is a consortium of 19 european institutions, its ambition is to contribute towards a cultural change where research software is recognized as a first-class citizen of the scientific process and the people that contribute to it are credited for their efforts. This involved the integration with third-party applications such as [APICURON](/credit-and-recognition#apicuron) and [BIP! Scholar](/credit-and-recognition#bip-scholar). This allows trainers to have their contributions to HEP Training rewarded on their ORCID profile for example (see [Trainers](#TODO)).
 
-**Global usage**
-^^^
-
-Global usages of TeSS
-:::
-
-:::{grid-item-card}
-:link: overview/mtess-x
-:link-type: doc
-
-**mTeSS-X**
-^^^
-
-Multi-spaces and exchange
-:::
-
-::::
-
-## Getting started
-
-::::{grid} 1 1 2 3
-:class-container: text-center
-:gutter: 3
-
-:::{grid-item-card}
-:link: search/searching
-:link-type: doc
-
-**Search**
-^^^
-
-Searching for training resources, precise filtering for events or materials
-:::
-
-:::{grid-item-card}
-:link: accounts/user
-:link-type: doc
-
-**Account creation**
-^^^
-
-Creating a user account, setting up a content provider
-:::
-
-:::{grid-item-card}
-:link: content/intro-content
-:link-type: doc
-
-**Content registration**
-^^^
-
-Automatically or manually register events, materials or learning paths
-:::
-
-
-:::{grid-item-card}
-:link: spaces/intro-spaces
-:link-type: doc
-
-**Space creation**
-^^^
-
-When to set up a HEP Training space, how to credit other spaces' materials
-:::
-
-:::{grid-item-card}
-:link: content/exchange
-:link-type: doc
-
-**Exchange content**
-^^^
-
-Filter and exchange materials automatically from another TeSSHub
-:::
-
-:::{grid-item-card}
-:link: developers/code-data
-:link-type: doc
-
-**Widgets and API**
-^^^
-
-Configure an API or widget to access materials
-:::
-
-
-::::
-
-## Funding
-
-The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751
-
-::::{grid} 1 1 2 2
-:class-container: text-center sd-border-0 sd-align-major-justify
-:gutter: 3
-
-:::{grid-item}
-:columns: 9
-[![OSCARS logo and EU flag](images/OSCARS-logo-EUflag.svg)](https://oscars-project.eu/)
-:::
-::::
-
-TeSS, the HEP Training base project, has been funded by:
-
-- [BioFAIR](https://biofair.uk/) Short Term Funding Award GP312
-- European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
-- ELIXIR Implementation Study (Registry Integration from a User Perspective);
-- ELIXIR Implementation Study (Learning Paths).
-- BBSRC UK (Delivering ELIXIR-UK grant, grant agreement numbers [BB/L005050/1](https://bbsrc.ukri.org/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1) & [BB/L005069/1](https://bbsrc.ukri.org/research/grants-search/AwardDetails/?FundingReference=BB/L005069/1)).
-
-
-::::{grid} 2 3 5 6
-:class-container: text-center sd-border-0 sd-align-major-justify
-:gutter: 3
-
-:::{grid-item}
-:class: justify-content-center
-![BioFAIR logo](images/funding/biofair.png)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-![European Union flag](images/funding/eu-flag.svg)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![ELIXIR Estonia logo](images/funding/elixir-ee.svg)](https://elixir.ut.ee/)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![ELIXIR United Kingdom logo](images/funding/elixir-uk.svg)](http://elixir-uk.org/)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![BBSRC logo](images/funding/bbsrc.svg)](http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1)  
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![The University of Manchester logo](images/funding/uom.svg)](http://www.manchester.ac.uk/)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![HZDR logo](images/funding/hzdr.png)](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en)
-:::
-
-:::{grid-item}
-:class: justify-content-center
-[![Helmholtz logo](images/funding/helmholtz.svg)](https://www.helmholtz.de/)
-:::
-
-
-::::
+Whilst the ELIXIR TeSS may provide other features (workflows, e-learning), those have been disabled for now in order to focus on the essential training resources: [materials](https://heptraining.cern.ch/materials) and [events](https://heptraining.cern.ch/events). Please contact the HEP Training team if your find relevant to add any other feature, we would be happy to help and discuss about your needs: [contact.heptraining@cern.ch](mailto:contact.heptraining@cern.ch).

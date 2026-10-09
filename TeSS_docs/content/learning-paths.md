@@ -1,15 +1,19 @@
-# Learning paths in HEP Training
+# Learning paths
+
+```{warning} Not enabled in HEP Training yet
+We can enable this feature, however we would need your input and user needs first. Contact us to discuss this possibility <contact.heptraining@cern.ch>
+```
 
 ## What is a learning path?
 
 A learning path is a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 ```{topic} Editorial process for Learning Paths in HEP Training
-There are several roles associated with learning paths, see the [Definitions page](../overview/definitions).
+There are several roles associated with learning paths, see the [Definitions page]().
 
 Before registering a learning path, a training provider must:
 
-1. Assign a learning path curator (owner).
+1. Assign a [learning path curator (owner)](../overview/definitions#term-curator).
 2. Contact the HEP Training team to assign the learning path curator role to their account.
 3. Complete your internal editorial processes (if any) before you start registering the learning paths on HEP Training.
 
@@ -42,7 +46,7 @@ To register a learning path you need to follow the three steps described below:
 2. Create a learning path topic and add materials to it (repeat for each topic)
 3. Register a learning path and add learning path topics to it
 
-To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact HEP Training-support@googlegroups.com to request permission.
+To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact TeSS-support@googlegroups.com to request permission.
 
 The three steps to register a learning path are described in full detail below.
 

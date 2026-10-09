@@ -4,40 +4,15 @@ _Project dates: 1 Oct 2024 - 30 Sep 2026_
 
 ## Scaling training portal federation for RIs through Multi-tenanting and Exchange
 
-::::{grid} 1 1 2 2 
-:class-container: sd-border-0 sd-align-major-justify
-:gutter: 0
+To overcome fragmentation of training resources across Research Infrastructures (RIs) and the Science Clusters, the mTeSS-X project aims to enhance the existing [ELIXIR TeSS platform](https://tess.elixir-europe.org/about) – to build an aggregator for training portals like ELIXIR TeSS and [PaNOSC training portals](https://www.panosc.eu/training-catalogue/) – to natively support federation.
 
-:::{grid-item}
-:columns: 8
-To overcome fragmentation of training resources across Research Infrastructures (RIs)
-and the Science Clusters, the mTeSS-X project aims to enhance the existing
-[ELIXIR TeSS platform](https://tess.elixir-europe.org/about) &mdash;
-to build an aggregator for training portals like ELIXIR TeSS and
-[PaNOSC training portals](https://www.panosc.eu/training-catalogue/)
-&mdash; to natively support federation.
-:::
-
-:::{grid-item}
-:columns: 4
-```{image} /images/overview/ri-350x160-secondary-white.svg
-:class: only-dark
-```
-```{image} /images/overview/ri-350x160-secondary.svg
-:class: only-light
-```
-:::
-::::
-
-Such a fully-featured open-source multi-tenanted training platform is expected to be an 
-innovation for building a federation of portals to:
+Such a fully-featured open-source multi-tenanted training platform is expected to be an innovation for building a federation of portals to:
 
 - help break down barriers between thematic communities,
 - promote a more cohesive European research community,
 - and promote FAIR and open training.
 
 The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange. This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
-
 
 ::::{grid} 1 2 2 3
 :gutter: 3
@@ -63,15 +38,9 @@ By fostering the federation of interoperable training catalogues, mTeSS-X will s
 :::
 ::::
 
-
-```{button-link} https://elixirtess.github.io/mTeSS-X/
-:color: primary
-View the mTeSS-X project website
-```
-
+{button}`View the mTeSS-X project website <https://elixirtess.github.io/mTeSS-X/>`
 
 ### Partners
-
 
 ::::{grid} 2 3 5 5 
 :class-container: text-center sd-border-0 sd-align-major-justify
@@ -103,17 +72,13 @@ View the mTeSS-X project website
 :::
 ::::
 
-
 ### Supporters
 
 [ALBA Synchrotron](https://www.cells.es/en), [Bioconductor](https://bioconductor.org/), [BioFAIR](https://biofair.uk/), [ELIXIR Belgium](https://www.elixir-belgium.org/), [ELIXIR Europe](https://elixir-europe.org/), [Ersilia](https://www.ersilia.io/), [European Synchrotron Radiation Facility (ESRF)](https://esrf.fr/), [Helmholtz Metadata Collaboration (HMC) Hub Matter](https://helmholtz-metadaten.de/en), [OLS](https://we-are-ols.org/)
 
-
 ### Project team members
+
 Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Kenneth Rioja (CERN), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
-
-
-<br><br>
 
 ::::{grid} 1 1 1 1
 :class-container: sd-border-0 sd-align-major-justify

@@ -4,52 +4,53 @@
 format: jb-book
 root: index
 parts:
-  - caption: Overview
-    chapters:
-    - file: overview/tess
+
+  - chapters:
     - file: overview/about
-    - file: overview/global
-    - file: overview/projects
-      sections:
-      - file: overview/mtess-x
-      - file: overview/tesshub4eosc
-      - file: overview/bits
-    - file: overview/definitions
-    - file: overview/what-we-catalogue
-    - file: overview/fair
+    - file: overview/overview
+    - file: overview/getting-started
+
+  - caption: Account creation
+    chapters:
+    - file: accounts/user
+    - file: accounts/content-provider
+
   - caption: Search
     chapters:
     - file: search/searching
     - file: search/subscribe
-  - caption: Account creation
+
+  - caption: Register
     chapters:
-    - file: accounts/user
-    - file: accounts/provider
-  - caption: Space creation
-    chapters:
-    - file: spaces/intro-spaces
-    - file: spaces/instance-or-space
-    - file: spaces/request-space
-  - caption: Group creation
-    chapters:
-    - file: groups/intro-groups
-  - caption: Content registration
-    chapters:
-    - file: content/intro-content
-    - file: content/auto
+    - file: content/introduction-content
+    - file: content/automatic
       sections:
       - file: content/structured-data-types
       - file: content/sources
       - file: content/exchange
-    - file: content/manual
+    - file: content/manually
       sections:
       - file: content/manual-events-materials
       - file: content/collections
-      - file: content/workflows
       - file: content/learning-paths
+
+  - caption: Advanced features
+    chapters:
+    - file: advanced/spaces
+    - file: advanced/roles
+    - file: advanced/curation
+    - file: advanced/credit-and-recognition
+
+  - caption: Other
+    chapters:
+    - file: overview/definitions
+    - file: overview/fair
+    - file: overview/tess
+    - file: overview/global
+    - file: overview/mtess-x
+    - file: overview/tesshub4eosc
+
   - caption: Developers
     chapters:
-    - file: developers/code-data
-    - file: developers/credit
-    - url: https://github.com/ElixirTeSS/TeSS/tree/master/docs
-      title: Developer guides (on GitHub)
+    - file: developers/code-and-data
+    - file: developers/widgets-and-api

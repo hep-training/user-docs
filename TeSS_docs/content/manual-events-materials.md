@@ -1,39 +1,45 @@
-# Manually add events and materials
+# Events and materials
 
-Resources may be added manually to HEP Training.
+```{admonition} Restricted to registered users and about resource visibility
+By default, manual content registration is only available to [registered users](../accounts/user#register).
 
-To do so, first [register for a free account](../accounts/user). Members of academic institutions may be able to log-in via LS-Login.
-
-Once registered and logged in, the 'Register event' and 'Register material' buttons will become visible on the events and materials tabs.
-
-```{admonition} See also guidance from the ELIXIR Training Platform
-:class: seealso
-* [Manual registration of events, material and a provider](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_02/)
+Then, any manually registered resource will have an 'Approval Status' set by default to 'Requested' which means that the resource is not yet public. It must pass under a [curation](../advanced/curation) process to be accepted and finally be open to the public.
 ```
 
-## Manually register training materials
+Once registered and logged in, the 'Register event' and 'Register material' buttons will become visible on the events and materials pages.
 
-To register a training material:
+## Events
 
-1. In the top menu, click ‘Materials’.
-2. Click the button 'Register training material'.
-3. Complete the fields (required fields are marked with an asterisk) then click the  'Register Material' button.
-
-
-## Manually register events
-
-To register an event:
-
-1. In the top menu, click ‘Events’.
+1. In the top menu, click 'Events'.
 2. Click the buttom 'Register event'.
-3. Complete the fields (required fields are marked with an asterisk) then click the  'Register Event' button.
+3. Complete the fields (required fields are marked with an asterisk) then click the 'Register Event' button.
 
-Alternatively, you can clone a previous event or training material. View the existing material and click the 'Clone' button at the top-right. 
+## Materials
 
-## Associate materials with a content provider
+1. In the top menu, click 'Materials'.
+2. Click the button 'Register training material'.
+3. Complete the fields (required fields are marked with an asterisk) then click the 'Register Material' button.
 
-Training materials and events may be associated to one content provider. 
-Content providers are entities (such as academic institutions, non-profit organisations, portals) that provide training materials
+## Edit/Lock fields
 
-1. To do so, first [register a content provider](../accounts/provider).
-2. When creating or editing any training material or event, select your content provider in the relevant field. 
+1. You are the owner of a resource, or a [curator](/roles#curator), or a [space administrator](/roles#space-administrator).
+2. In the resource page, click on 'Edit' button on the top-right of the page.
+
+```{warning} Use locks!
+Much of the content in HEP Training is retrieved and kept up-to-date via automated scrapers that pull information from public web pages and APIs in regular intervals.
+
+To prevent HEP Training from overwriting a field you have changed, click the yellow opened lock icon to lock the field.
+
+Fields marked with the green locked lock will not be overwritten.
+```
+
+## Clone
+
+Alternatively, you can clone a previous event or training material. View the existing material and click the 'Clone' button at the top-right.
+
+## Associate resources with a content provider
+
+Training events and materials may be associated to one [content provider](../accounts/content-provider).
+
+1. To do so, first [register a content provider](../accounts/content-provider#register).
+2. When creating or editing any training material or event, select your content provider in the relevant field.
