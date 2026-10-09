@@ -32,8 +32,7 @@ Please note that the video may be slightly outdated in some cases. The instructi
 
 ## Which filters can I use to exchange?
 
-TeSS provides a selection of the most useful filters to customise which materials are exchanged.
-This list is being expanded as part of the [TeSSHub4EOSC project](/tesshub4eosc). If a filter you need is not available, please contact us.
+HEP Training provides a selection of the most useful filters to customise which materials are exchanged.
 
 - Target audience
 - Keyword
@@ -55,11 +54,12 @@ The following filters are available for events only:
 - Event type
 - Timezone
 
+This list is being expanded as part of the [TeSSHub4EOSC project](/tesshub4eosc). If a filter you need is not available, please contact us.
+
 ```{admonition} See also the definitions of these terms
 :class: seealso
-* [TeSS Platform Defintions](/definitions)
+* [HEP Training Defintions](/definitions)
 ```
-
 
 ---
 

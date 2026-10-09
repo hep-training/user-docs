@@ -6,8 +6,6 @@ Users may choose to receive email notifications about upcoming events, or have t
 
 ## Adding subscriptions
 
-To add a subscription:
-
 1. Apply a choice of filters to show the type of events you are interested in.
 2. Click the 'Subscribe' button near the top of the results to email alerts or track events in your calendar application.
 
@@ -23,8 +21,6 @@ To add a subscription:
 ## Managing subscriptions
 
 The subscriptions manager page may be used to change the frequency of, or to remove, subscriptions.
-
-To find the subscriptions manager page:
 
 1. If you have not yet logged in, in the top menu, click 'Log In'.
 2. In the top menu, click your username, then click 'My profile'.
