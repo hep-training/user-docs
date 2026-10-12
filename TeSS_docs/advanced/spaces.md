@@ -80,6 +80,12 @@ There are currently five themes to choose from to style your new space.
 
 ![Space themes](../images/spaces/space-themes.png)
 
+## Consequences of deleting a space
+
+For public spaces, all resources will be moved to the default space and be found under heptraining.cern.ch.
+
+However, for private spaces, all resources registered from the public spaces will be deleted.
+
 ---
 
 *This new feature is possible thanks to the [mTeSS-X project](./mtess-x).*
