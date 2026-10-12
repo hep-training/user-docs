@@ -1,11 +1,10 @@
-# Searching for training resources
+# Search
 
 ## Getting started
 
 Training resources (both [events](https://heptraining.cern.ch/events/) and [materials](https://heptraining.cern.ch/materials/)) may be searched in HEP Training in several ways.
 
 ::::{grid} 1 2 2 2
-:gutter: 3
 
 :::{grid-item-card}
 **General search**
@@ -32,7 +31,7 @@ Browsing by events or materials allows more precise filtering on several paramet
 
 ```{admonition} Note for spaces
 :class: note
-In HEP Training, there exists multiple [spaces](../spaces/introduction-spaces), your search results will be limited to the current space by default. To search across all spaces, use the filter `Show materials from all spaces`.
+In HEP Training, there exists multiple [spaces](./introduction-spaces), your search results will be limited to the current space by default. To search across all spaces, use the filter `Show materials from all spaces`.
 ```
 
 ## General search
@@ -52,5 +51,4 @@ In HEP Training, there exists multiple [spaces](../spaces/introduction-spaces), 
 
 Search across all spaces in HEP Training by clicking `Show materials from all spaces`.
 
-Descriptions of the filters can be found on the [Definitions](../overview/definitions) page.
-
+Descriptions of the filters can be found on the [Definitions](./definitions) page.

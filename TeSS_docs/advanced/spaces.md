@@ -5,8 +5,6 @@ Spaces are useful for communities wanting to manage their own training resources
 They present as subdomains (e.g., `alice-heptraining.cern.ch`) where you can isolate training resources for your community, the space's interface may change while keeping HEP Training Catalogue functionalities.
 
 ::::{grid} 1 1 2 2
-:class-container: text-center
-:gutter: 3
 
 :::{grid-item-card}
 
@@ -84,4 +82,4 @@ There are currently five themes to choose from to style your new space.
 
 ---
 
-*This new feature is possible thanks to the [mTeSS-X project](../overview/mtess-x).*
+*This new feature is possible thanks to the [mTeSS-X project](./mtess-x).*

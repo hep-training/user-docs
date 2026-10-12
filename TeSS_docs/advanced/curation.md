@@ -8,7 +8,7 @@
 
 ## How are training resources curated in TeSS?
 
-Any added training material or event (either [manually](./manually) or [automatically](./automatically)) will be **by default** subject to verification and thus, not publicly shown in your TeSS instance. Your resource will be marked with an 'Approval status' set to 'Requested', as shown below:
+Any added training material or event (either [manually](./register-introduction#manually) or [automatically](./register-introduction#automatically)) will be **by default** subject to verification and thus, not publicly shown in your TeSS instance. Your resource will be marked with an 'Approval status' set to 'Requested', as shown below:
 
 ```{image} ../images/content/material_requested_view.png
 :alt: A material with requested view

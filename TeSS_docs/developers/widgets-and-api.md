@@ -8,7 +8,7 @@ Widgets are chunks of javascript code that can be copied into website source cod
 
 ```{admonition} Tutorial
 :class: seealso
-* [Integrating HEP Training widgets on your web site](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_03/)
+* [Integrating widgets on your web site (from ELIXIR trainings)](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_03/)
 ```
 
 ## API

@@ -8,7 +8,7 @@ Once logged in, you may fit a role in HEP Training that defines your current pos
 
 If you find yourself providing training, either in-person in your institution or through schools and workshops, or online where you provide step-by-step tutorials or walkthrough videos, you may 'Register as a trainer'.
 
-This will allow you to be publicly featured in the list of [trainers](https://heptraining.cern.ch/trainers) which is useful for workshops' and schools' organisers looking for a specific trainer profile. By having your trainer profile publicly shown, you may have access to both APICURON and BIP! Scholar features which allows to credit and recognize your training contributions. Find more on the [credit and recognition](../advanced/credit-and-recognition) page.
+This will allow you to be publicly featured in the list of [trainers](https://heptraining.cern.ch/trainers) which is useful for workshops' and schools' organisers looking for a specific trainer profile. By having your trainer profile publicly shown, you may have access to both APICURON and BIP! Scholar features which allows to credit and recognize your training contributions. Find more on the [credit and recognition](./credit-and-recognition) page.
 
 ```{admonition} How to be a trainer?
 - Register/Log in in <https://heptraining.cern.ch>
@@ -24,14 +24,14 @@ This will allow you to be publicly featured in the list of [trainers](https://he
 > Content providers are entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance to your community. Every event or training material in HEP Training is associated with precisely one content provider.
 Registering your entity as a content provider allows to be featured in the list of ‘Training Providers’ in the main page, this allows your to be included in our growing community of training providers.
 
-From the [Content provider](../accounts/content-provider) page.
+From the [Content provider](./content-provider) page.
 
 Being a Content provider owner or editor allows you to keep your trainings up-to-date in HEP Training by registering resources on behalf of your institution/team/group.
 
 ```{admonition} How to be a content provider owner/editor?
 - Register/Log in in <https://heptraining.cern.ch>
 - For owners: See procedure in the [register section of the content provider page](/content-provider#register)
-- For editors: The content provider owner must edit the content provider and add you as an 'Approved editor', see the [edit (point 3) section of the content provider page](/content-provider#edit)
+- For editors: The content provider owner can update the content provider and add you as an 'Approved editor', see the [update (point 3) section of the content provider page](/content-provider#update)
 ```
 
 ## Space Administrator

@@ -31,7 +31,6 @@ The two main activities of these two other initiatives are:
 HEP Training supports the following schemas\.science/Bioschemas profiles:
 
 ::::{grid} 1 2 3 3
-:gutter: 3
 
 :::{grid-item-card}
 for events that are courses
@@ -147,7 +146,6 @@ As you can see, this material has been extensively described, allowing the resou
 To help HEP Training discover all the pages on a site that have schema.org/schemas.science markup, a [sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview) should be used. Sitemaps are basically a directory listing of all the pages on your site.
 
 ::::{grid} 1 1 1 1
-:gutter: 3
 
 :::{grid-item-card}
 Sitemaps are a well-established standard, and there should be sitemap libraries and plugins available for whichever software you are using to provide your site.
@@ -158,8 +156,7 @@ Sitemaps are a well-established standard, and there should be sitemap libraries 
 
 Many organisations use calendar applications to organise and display their events. These may be custom-made or, more likely, utilise applications like Google Calendar. Calendar applications maintain an underlying file for event storage and retrieval, typically in the iCal (.ics) format.
 
-::::{grid} 1 1 1 1 
-:gutter: 3
+::::{grid} 1 1 1 1
 
 :::{grid-item-card}
 HEP Training can extract event descriptions, dates and locations from iCal files.

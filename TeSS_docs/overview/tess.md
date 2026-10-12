@@ -51,8 +51,6 @@ For enquiries, information or assistance, contact the TeSS support desk at [tess
 The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange), which has received funding from the European Commission's Horizon Europe Research and Innovation programme under grant agreement No. 101129751
 
 ::::{grid} 1 1 2 2
-:class-container: text-center sd-border-0 sd-align-major-justify
-:gutter: 3
 
 :::{grid-item}
 :columns: 9
@@ -60,7 +58,7 @@ The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/proje
 :::
 ::::
 
-Development on the TeSS platform is largely made possible thanks to [funded research projects](overview/projects).
+Development on the TeSS platform is largely made possible thanks to funded research projects.
 
 TeSS, the HEP Training base project, has been funded by:
 
@@ -71,8 +69,6 @@ TeSS, the HEP Training base project, has been funded by:
 - BBSRC UK (Delivering ELIXIR-UK grant, grant agreement numbers [BB/L005050/1](https://bbsrc.ukri.org/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1) & [BB/L005069/1](https://bbsrc.ukri.org/research/grants-search/AwardDetails/?FundingReference=BB/L005069/1)).
 
 ::::{grid} 2 3 5 6
-:class-container: text-center sd-border-0 sd-align-major-justify
-:gutter: 3
 
 :::{grid-item}
 :class: justify-content-center
@@ -111,7 +107,7 @@ TeSS, the HEP Training base project, has been funded by:
 
 :::{grid-item}
 :class: justify-content-center
-[![Helmholtz logo](images/funding/helmholtz.svg)](https://www.helmholtz.de/)
+[![Helmholtz logo](../images/funding/helmholtz.svg)](https://www.helmholtz.de/)
 :::
 
 ::::

@@ -9,11 +9,11 @@ We can enable this feature, however we would need your input and user needs firs
 A learning path is a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 ```{topic} Editorial process for Learning Paths in HEP Training
-There are several roles associated with learning paths, see the [Definitions page]().
+There are several roles associated with learning paths, see the [Definitions page](/definitions).
 
 Before registering a learning path, a training provider must:
 
-1. Assign a [learning path curator (owner)](../overview/definitions#term-curator).
+1. Assign a [curator](/roles#curator).
 2. Contact the HEP Training team to assign the learning path curator role to their account.
 3. Complete your internal editorial processes (if any) before you start registering the learning paths on HEP Training.
 
@@ -28,15 +28,10 @@ Governance: Maintaining the learning path
 - The curator can assign collaborators to work on each learning path, depending on the expertise required.
 ```
 
- ```{topic}  Creating ELIXIR Learning Paths
+ ```{topic}  Creating HEP Training Learning Paths
  
-If you would like to create an ELIXIR Learning Path, [please complete this form](https://forms.cloud.microsoft/e/yyBC4fuz9T).
-ELIXIR Learning Paths follow a Standard Operating Procedure (SOP) to ensure quality, consistency, and long-term sustainability. 
-[Further details about the process are available here.](https://zenodo.org/records/21822148)
-
-After you submit the form, a member of the ELIXIR Learning Paths Editorial Board will contact you to discuss your proposal and outline the next steps.
+If you would like to create a Learning Path : <contact.heptraining@cern.ch>.
 ```
-
 
 ## Overview of registering learning paths
 
@@ -46,37 +41,40 @@ To register a learning path you need to follow the three steps described below:
 2. Create a learning path topic and add materials to it (repeat for each topic)
 3. Register a learning path and add learning path topics to it
 
-To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact TeSS-support@googlegroups.com to request permission.
+To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact <contact.heptraining@cern.ch> to request permission.
 
 The three steps to register a learning path are described in full detail below.
 
 ![Learning path components](../images/content/learning_path_components.svg)
 
 ## Training material
+
 ### Registering training materials
+
 To [register training materials follow the instructions here](manual-events-materials). If your training material is already registered, skip this step. Each material can be assigned a competency level (beginner, intermediate, advanced).
 
-
 ## Learning path topics
+
 ### Creating topics
+
 A learning path topic is an ordered list of training materials. A topic can be assigned a competency level (beginner, intermediate, advanced), description and set of keywords. A learning path contains an ordered list of one or more topics.
 
 To create a learning path topic:
 
-1. On the 'Learning paths' tab, click the 'Manage topics' button at the top-right. 
-2. On the 'Learning path topics' page, click the 'Create topic' button at the top-right. 
-3. Give the topic a title, description and keywords. 
+1. On the 'Learning paths' tab, click the 'Manage topics' button at the top-right.
+2. On the 'Learning path topics' page, click the 'Create topic' button at the top-right.
+3. Give the topic a title, description and keywords.
 4. Select the competency level of this topic, from 'Beginner', 'Intermediate' and 'Advanced'
-5. To add a training material to the topic, click in the 'Add a new material' box and begin to type its name. Select the correct material. You can provide a comment to be displayed with the material, if you wish to provide additional context or explain which parts of the material are relevant to the topic. 
-6. Repeat step 5 to add multiple materials for this topic, all at the same competency level. 
-7. You can reorder the materials using the arrow icons. 
+5. To add a training material to the topic, click in the 'Add a new material' box and begin to type its name. Select the correct material. You can provide a comment to be displayed with the material, if you wish to provide additional context or explain which parts of the material are relevant to the topic.
+6. Repeat step 5 to add multiple materials for this topic, all at the same competency level.
+7. You can reorder the materials using the arrow icons.
 8. When you have finished, click the 'Create topic' button.
 
 ### Give your topics good names
+
 When giving your learning path topic a title, please use a descriptive name. This will also prevent potential overlaps with identical or similar names used by other content providers, thereby reducing the risk of mistakenly selecting the wrong topics.
 
-::::{grid} 1 1 2 2 
-:gutter: 3
+::::{grid} 1 1 2 2
 
 :::{grid-item-card}
 Examples of good topic names:
@@ -98,6 +96,7 @@ Examples of poor topic names:
 ::::
 
 ## Registering learning paths
+
 After you have created all your topics, and added training materials to them, you are ready to register your learning path.
 
 1. On the 'Learning paths' tab, click the 'Register learning path' button at the top-right.
@@ -109,6 +108,7 @@ After you have created all your topics, and added training materials to them, yo
 7. When you have finished, click the 'Register learning path' button.
 
 ### Managing collaborators
+
 Collaborators are HEP Training users who can edit a learning path or topic after it has been created. Only the learning path or topic owner can add and remove collaborators. To add a collaborator:
 
 1. Navigate to the page for that learning path or topic.
@@ -117,8 +117,8 @@ Collaborators are HEP Training users who can edit a learning path or topic after
 4. Repeat for any additional collaborators.
 5. When you have finished, click the 'Done' button.
 
-
 ### Updating learning paths
+
 To update a learning path or topic, you need to be the owner or a collaborator:
 
 1. Navigate to the page for that learning path or topic.
@@ -127,8 +127,8 @@ To update a learning path or topic, you need to be the owner or a collaborator:
 
 If you wish to delete the learning path or topic, use the 'Delete' button next to the 'Edit' button on the page for that item.
 
-
 ## Viewing learning paths
+
 Learning paths can be browsed and searched in HEP Training. They are organised by topic.
 
 1. To view the learning paths, click 'Learning paths' in the main menu. (Tip: To view a learning path you do not need to be logged in to HEP Training.)
@@ -136,7 +136,6 @@ Learning paths can be browsed and searched in HEP Training. They are organised b
 3. Alternatively, you can click in the search box, type your query and press Enter.
 4. Click to view a learning path. Read the summary box. The details of the included training materials appear below; click each item to open it. Information about the content provider appears on the left.
 5. To create a personal collection of your favourite learning paths, click the star icon at the top of each learning path to add them to a list. You can view your starred resources later by clicking the user icon at the top-right of the screen then 'My stars'. To use the star feature you need to be a registered HEP Training user.
-
 
 ### Viewing topics
 

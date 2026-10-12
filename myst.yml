@@ -2,14 +2,71 @@
 version: 1
 project:
   id: 9337d5cd-ab1f-4e2c-bf59-2dd82bd4980e
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  # title: HEP Training User Docs
+  # description: User documentation on how to use HEP Training
+  # keywords: [documentation, HEP Training, user]
+  # authors: [Kenneth Rioja, Phil Reed, Valentin Ryckaert]
   github: https://github.com/hep-training/user-docs
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  exclude:
+    - README.md
+  toc:
+    - file: TeSS_docs/overview/index.md
+    - file: TeSS_docs/overview/about.md
+    - file: TeSS_docs/overview/who-can-do-what.md
+    - file: TeSS_docs/overview/getting-started.md
+
+    - title: Account creation
+      children:
+      - file: TeSS_docs/accounts/user.md
+      - file: TeSS_docs/accounts/content-provider.md
+
+    - title: Search & Subscribe
+      children:
+      - file: TeSS_docs/search/search.md
+      - file: TeSS_docs/search/subscribe.md
+
+    - title: Register
+      children:
+      - file: TeSS_docs/content/register-introduction.md
+      - title: Automatically
+        children:
+        - file: TeSS_docs/content/structured-data-types.md
+        - file: TeSS_docs/content/sources.md
+        - file: TeSS_docs/content/exchange.md
+      - title: Manually
+        children:
+        - file: TeSS_docs/content/manual-events-materials.md
+        - file: TeSS_docs/content/collections.md
+        - file: TeSS_docs/content/learning-paths.md
+
+    - title: Advanced features
+      children:
+      - file: TeSS_docs/advanced/spaces.md
+      - file: TeSS_docs/advanced/roles.md
+      - file: TeSS_docs/advanced/curation.md
+      - file: TeSS_docs/advanced/credit-and-recognition.md
+
+    - title: Other
+      children:
+      - file: TeSS_docs/overview/definitions.md
+      - file: TeSS_docs/overview/fair.md
+      - file: TeSS_docs/overview/tess.md
+      - file: TeSS_docs/overview/global.md
+      - file: TeSS_docs/overview/mtess-x.md
+      - file: TeSS_docs/overview/tesshub4eosc.md
+
+    - title: Developers
+      children:
+      - file: TeSS_docs/developers/code-and-data.md
+      - file: TeSS_docs/developers/widgets-and-api.md
+      - url: https://hep-training.github.io/dev-docs/
+        title: Dev Docs
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  parts:
+    primary_sidebar_footer: TeSS_docs/primary-sidebar-footer.md
+  options:
+    favicon: TeSS_docs/images/favicon.png
+    logo: TeSS_docs/images/hep-training-black.png
+    logo_dark: TeSS_docs/images/hep-training-white.png

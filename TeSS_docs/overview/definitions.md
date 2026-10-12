@@ -13,10 +13,10 @@ HEP Training Catalogue/Portal/Platform
 
 Collection
     : Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within HEP Training to address their specific training needs.
-    See [Collections in HEP Training](../content/collections) for details.
+    See [Collections in HEP Training](./collections) for details.
 
 Content provider
-    : Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance. See [Content providers in HEP Training](../accounts/content-provider) for details.
+    : Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance. See [Content providers in HEP Training](./content-provider) for details.
 
 Event
     : An event in HEP Training is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords).
@@ -33,7 +33,7 @@ Instance
 
 Learning path
     : A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
-    See [Learning paths in HEP Training](../content/learning-paths) for details.
+    See [Learning paths in HEP Training](./learning-paths) for details.
 
 mTeSS-X
     : The [mTeSS-X Project](mtess-x) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
@@ -42,7 +42,7 @@ mTeSS-X
 Space (mTeSS)
     : A single TeSS instance can present multiple tailored spaces (catalogues) whose selections of training material are "views” on a global catalogue.
     Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
-    See [Introduction to spaces](../spaces/introduction-spaces) for details.
+    See [Introduction to spaces](./introduction-spaces) for details.
     We call 'default' space, the main catalogue ([heptraining.cern.ch](https://heptraining.cern.ch)).
 
 TeSSHub
@@ -53,7 +53,7 @@ TeSSHub
     and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/)
     will be running multipe spaces from the same server, appearing as distinct catalogues,
     and can share relevant materials.
-    Communities may be welcome to [request their own space](../spaces/instance-or-space/)
+    Communities may be welcome to [request their own space](./instance-or-space/)
     on a TeSSHub, providing them with their own registry,
     without the need to host and maintain their own instance.  
 
@@ -108,7 +108,7 @@ DOI (Digital Object Identifier)
 Version
     : A specific iteration or release of the training material document, labeled to track updates (for example, v1.0, v2.1).
 
-Content Provider
+Content Provider (field)
     : The organisation, institution, or individual responsible for providing, and maintaining the training material.
 
 Authors
@@ -168,9 +168,9 @@ Address, Venue, City, Region, Postcode
 Eligibility
     : Who can attend the training event.  
     To be chosen from one of the three:
-    - First come first served
-    - Registration of Interest
-    - By invitation
+        - First come first served
+        - Registration of Interest
+        - By invitation
 
 Organiser
     : Institution/Organisation or the individual coordinating to organise the event.
@@ -185,10 +185,10 @@ Capacity
 Event type
     : The category of an event based on its purpose, format, and activities.
     Can be chosen from the following options:
-    - Awards and prizegivings
-    - Meeting and conference
-    - Receptions and networking
-    - Workshops and courses
+        - Awards and prizegivings
+        - Meeting and conference
+        - Receptions and networking
+        - Workshops and courses
 
 Tech requirements
     : Indicate the technical requirements needed to participate in the training event.
@@ -202,9 +202,9 @@ External resources
 
 Cost basis
     : Select the basis by which costs, if any, are applied. Select from:
-    - Free to all
-    - Cost to non-members
-    - Cost incurred by all
+        - Free to all
+        - Cost to non-members
+        - Cost incurred by all
 
 Materials
     : Add any training materials that are associated with the training event.
@@ -239,7 +239,7 @@ Show hidden items
     : This filter is for curators only. Show training created by unverified users, and users that have been flagged as spammers. False by default.
 
 Show archived materials/learning paths/collections
-    : Show training where the provider has set the [status](/definitions#term-Status) as Archived.  False by default.
+    : Show training where the provider has set the [status](/definitions#term-status) as Archived.  False by default.
 
 :::
 

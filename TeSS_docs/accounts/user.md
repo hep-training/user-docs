@@ -1,8 +1,8 @@
 # User
 
-HEP Training is viewable by everyone, you do not need to register to [browse and search](../search/searching) for materials.
+HEP Training is viewable by everyone, you do not need to register to [browse and search](./search) for materials.
 
-The materials that HEP Training points to may be restricted-access, but the registry itself is open except for private spaces which restrict access to their materials and events to specific groups of users ([see more in private spaces](../spaces/private)).
+The materials that HEP Training points to may be restricted-access, but the registry itself is open except for private spaces which restrict access to their materials and events to specific groups of users ([see more in private spaces](./spaces#private-space)).
 
 ## Register
 
@@ -14,13 +14,13 @@ The materials that HEP Training points to may be restricted-access, but the regi
 
 ## Rights given being logged in
 
-- You can register resources either manually or automatically ([How?](../content/introduction-content));
+- You can register resources either manually or automatically ([How?](./register-introduction));
 - If you represent a team, group, portal, organization, institution which is providing multiple trainings, you can enable the automatic ingestion/registration of your resources. See more in the next page ([Content Providers](./content-provider));
-- You can apply for a [role](../advanced/roles) (trainer, content provider owner/editor, curator, space administrator) that can fit you best in HEP Training;
-- More importantly, your contribution to HEP Training can [be credited in your ORCID profile](../advanced/credit-and-recognition).
+- You can apply for a [role](./roles) (trainer, content provider owner/editor, curator, space administrator) that can fit you best in HEP Training;
+- More importantly, your contribution to HEP Training can [be credited in your ORCID profile](./credit-and-recognition).
 
 <!-- ```{admonition} Note for mutli-space
 :class: note
-If a HEP Training instanace has multiple [spaces](../spaces/introduction-spaces), please register one user account for all spaces. 
+If a HEP Training instanace has multiple [spaces](./introduction-spaces), please register one user account for all spaces. 
 For security reasons, if the spaces are on different domains (`site1.com` and `site2.com`), you will need to log in to each space separately, even though you are using the same account.
 ``` -->

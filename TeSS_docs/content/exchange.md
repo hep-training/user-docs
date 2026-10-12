@@ -1,7 +1,7 @@
 # Exchange content
 
 HEP Training can import content from a range of external sources.
-When the source is also based on HEP Training, there are additional features which allow you to customise and automate the exchange, thanks to the [mTeSS-X project](../overview/mtess-x).
+When the source is also based on HEP Training, there are additional features which allow you to customise and automate the exchange, thanks to the [mTeSS-X project](./mtess-x).
 
 ```{image} ../images/content/graphic-exchange.svg
 :alt: Graphic of multi-spaces
@@ -14,7 +14,7 @@ When the source is also based on HEP Training, there are additional features whi
 
 You may take the following steps to setup automated exchange between two HEP Training based catalogues (a **source** and a **destination**):
 
-1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site [admin](/definitions/#term-administrator), or the [owner of a 'content provider'](/definitions/#term-editor-or-owner-of-a-content-provider), of the destination [TeSSHub](/definitions/#term-tesshub) (where the content should end up). You are the owner of content providers that you create.
+1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site [admin](/roles/#administrator), or the [owner of a 'content provider'](/roles/#content-provider-owner-editor), of the destination [TeSSHub](/definitions/#term-tesshub) (where the content should end up). You are the owner of content providers that you create.
 2) Go to the source [TeSSHub instance](/definitions/#term-instance) (where the training should come from) and understand what metadata (set of filters) is used there to describe the particular set of training content that should be exchanged.
 3) In the source instance, at the top of the list of training materials, go to the 'Subscribe' menu, click 'Harvest using OAI-PMH', and copy the OAI-PMH link. If not found on the TeSSHub instance, it may not include the latest changes, then ask the administrator to update the platform.
 4) Go to the content provider in the target TeSSHub instance (where the exchanged content should be associated with), open the 'Sources' tab then click the 'Add source' button.
@@ -63,4 +63,4 @@ This list is being expanded as part of the [TeSSHub4EOSC project](/tesshub4eosc)
 
 ---
 
-*This new feature is possible thanks to the [mTeSS-X project](../overview/mtess-x).*
+*This new feature is possible thanks to the [mTeSS-X project](./mtess-x).*

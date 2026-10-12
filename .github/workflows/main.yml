@@ -3,7 +3,7 @@ name: Deploy Jupyter Book to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this if your main branch has a different name
+      - heptraining  # Change this if your main branch has a different name
 
 jobs:
   deploy:

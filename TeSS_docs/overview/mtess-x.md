@@ -15,7 +15,6 @@ Such a fully-featured open-source multi-tenanted training platform is expected t
 The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange. This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
 
 ::::{grid} 1 2 2 3
-:gutter: 3
 
 :::{grid-item-card}
 **Challenge**
@@ -42,9 +41,7 @@ By fostering the federation of interoperable training catalogues, mTeSS-X will s
 
 ### Partners
 
-::::{grid} 2 3 5 5 
-:class-container: text-center sd-border-0 sd-align-major-justify
-:gutter: 3
+::::{grid} 2 3 5 5
 
 :::{grid-item}
 :class: justify-content-center
@@ -81,8 +78,6 @@ By fostering the federation of interoperable training catalogues, mTeSS-X will s
 Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Kenneth Rioja (CERN), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
 
 ::::{grid} 1 1 1 1
-:class-container: sd-border-0 sd-align-major-justify
-:gutter: 3
 
 :::{grid-item-card}
 **OSCARS: Open Science Clusters' Action for Research & Society**

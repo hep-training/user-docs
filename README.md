@@ -1,14 +1,6 @@
-# Documentation for HEP Training Platform
+# HEP Training User Documentation
 
-<https://elixirtess.github.io/docs/>
-
-Separate the training docs/help content to separate repo, like [IBISBA Handboook](https://ibisba.github.io/workshop/docs/intro.html).
-
-Built using [Jupyter Book 1](https://jupyterbook.org/stable/resources/faq/#faq-general). For additional guidance, see:
-
-- [Anatomy of a Jupyter Book (TeachBooks.io)](https://teachbooks.io/manual/basic-features/jupyterbook.html)
-- [Sphinx Design (the engine behind Jupyter Book)](https://sphinx-design.readthedocs.io/en/latest/) including [CSS classes](https://sphinx-design.readthedocs.io/en/pydata-theme/css_classes.html)
-- [MyST Syntax Extensions](https://myst-parser.readthedocs.io/en/latest/syntax/optional.html) even though we are using Markdown, not MyST
+<https://hep-training.github.io/user-docs/index>
 
 ## Running locally and on GitHub Pages
 
@@ -48,5 +40,13 @@ The build command in the GitHub Action includes:
 jupyter-book build --builder dirhtml TeSS_docs/
 ```
 
+## Notes
+
+Built using [Jupyter Book 1](https://jupyterbook.org/stable/resources/faq/#faq-general). For additional guidance, see:
+
+- [Anatomy of a Jupyter Book (TeachBooks.io)](https://teachbooks.io/manual/basic-features/jupyterbook.html)
+- [Sphinx Design (the engine behind Jupyter Book)](https://sphinx-design.readthedocs.io/en/latest/) including [CSS classes](https://sphinx-design.readthedocs.io/en/pydata-theme/css_classes.html)
+- [MyST Syntax Extensions](https://myst-parser.readthedocs.io/en/latest/syntax/optional.html) even though we are using Markdown, not MyST
+
 > [!NOTE]
-> These instructions will change with the [release of Jupyter Book 2](https://jupyterbook.org/stable/resources/upgrade/). 
+> These instructions will change with the [release of Jupyter Book 2](https://jupyterbook.org/stable/resources/upgrade/).

@@ -1,9 +1,9 @@
 # Events and materials
 
 ```{admonition} Restricted to registered users and about resource visibility
-By default, manual content registration is only available to [registered users](../accounts/user#register).
+By default, manual content registration is only available to [registered users](./user#register).
 
-Then, any manually registered resource will have an 'Approval Status' set by default to 'Requested' which means that the resource is not yet public. It must pass under a [curation](../advanced/curation) process to be accepted and finally be open to the public.
+Then, any manually registered resource will have an 'Approval Status' set by default to 'Requested' which means that the resource is not yet public. It must pass under a [curation](./curation) process to be accepted and finally be open to the public.
 ```
 
 Once registered and logged in, the 'Register event' and 'Register material' buttons will become visible on the events and materials pages.
@@ -39,7 +39,7 @@ Alternatively, you can clone a previous event or training material. View the exi
 
 ## Associate resources with a content provider
 
-Training events and materials may be associated to one [content provider](../accounts/content-provider).
+Training events and materials may be associated to one [content provider](./content-provider).
 
-1. To do so, first [register a content provider](../accounts/content-provider#register).
+1. To do so, first [register a content provider](./content-provider#register).
 2. When creating or editing any training material or event, select your content provider in the relevant field.

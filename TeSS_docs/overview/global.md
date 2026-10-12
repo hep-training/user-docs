@@ -12,8 +12,6 @@ If you are maintaining an instance of TeSS, or thinking of doing so, please [con
 TeSS is an open source, reusable software platform, and has been deployed by several other communities across the globe.
 
 ::::{grid} 1 1 2 3
-:class-container: text-center
-:gutter: 3
 
 :::{grid-item-card}
 :link: http://heptraining.cern.ch/

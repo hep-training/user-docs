@@ -20,8 +20,8 @@ When the author or contributor is a person, their ORCID can be included.
 
 This free, unique, persistent identifier (PID) allows individuals to be uniquely distinguished and claim credit for their scholarship work, no matter how many people have a similar name.
 
-When you [manually edit your training material in HEP Training](../content/manual-events-materials), as you type the name of each author or contributor, HEP Training will suggest a name and ORCID. If you are entering this person for the first time, paste their ORCID in the box after their name.
-If your training material is [automatically ingested into HEP Training](../content/structured-data-types), you can add the ORCID URL of each person while [editing the resource](/manual-events-materials#edit-lock-fields). 
+When you [manually edit your training material in HEP Training](./manual-events-materials#edit-lock-fields), as you type the name of each author or contributor, HEP Training will suggest a name and ORCID. If you are entering this person for the first time, paste their ORCID in the box after their name.
+If your training material is [automatically ingested into HEP Training](./register-introduction#automatically), you can add the ORCID URL of each person while [editing the resource](/manual-events-materials#edit-lock-fields). 
 
 This will show into the Bioschemas markup under the `@id` or `identifier` property (either property will work). For example:
 

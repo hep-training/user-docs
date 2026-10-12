@@ -14,7 +14,7 @@ Registering your entity as a content provider allows to be featured in the list 
 
 ## View
 
-1. In the top-right menu, click 'Directory', then click ['Providers'](https://heptraining.cern.ch/content_providers).
+1. In the top-right menu, click 'Directory', then click on '[Providers](https://heptraining.cern.ch/content_providers)'.
 2. The list of all visible content providers is shown, with a search box at the top. For each provider, you can see how many events and materials are registered.
 3. There are filters on the left to limit the search. There is an option to 'Show hidden items' in the search results.
 
@@ -25,7 +25,7 @@ Content providers can be created by any registered user. New providers are autom
 1. In the top menu, click 'Directory', then click 'Providers'.
 2. Click the buttom 'Register content provider'.
 3. Complete the fields (required fields are marked with an asterisk) then click the  'Register Content Provider' button.
-4. Once your Content Provider created, you can add a source (['What is a source?'](../content/sources)).
+4. Once your Content Provider created, you can add a source (['What is a source?'](./sources)).
 
 ## Update
 
