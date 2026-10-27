@@ -20,8 +20,9 @@ Azza organized the [S3 School](https://s3-school.github.io/s3-2026-lectures/) in
 1. Have an ORCID or register in [ORCID](https://orcid.org/)
 2. Login in HEP Training
 3. Add your ORCID in your profile (Click on your picture on the top-right of the window, select 'My Profile', click on 'Edit profile', add your ORCID and click on 'Update profile')
-4. Login in [APICURON](https://apicuron.org/)
-5. Look at the following contributions that are credited in HEP Training
+4. Validate your ORCID clicking on the 'Authenticate your ORCID' on the left of your user profile
+5. Login in [APICURON](https://apicuron.org/)
+6. Look at the following contributions that are credited in HEP Training
 
 #### Contribution: Register a material
 
