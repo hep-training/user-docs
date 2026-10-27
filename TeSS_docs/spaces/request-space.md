@@ -10,8 +10,10 @@ Further details about the governance of spaces are decided by the administration
 :class: seealso
 * [ELIXIR TeSSHub](https://tesshub.org/) is the home of [ELIXIR TeSS](https://tess.elixir-europe.org/). It has Spaces for [PaN-Training](https://pan-training.tesshub.org/) and [Bioconductor](https://bioconductor.tesshub.org/). You can [request a space in TeSSHub.org](https://docs.google.com/forms/d/e/1FAIpQLSeNPKIsL3Ot-a5XHMogeTIe3duft6bdK4Q-elFmgw26fT6GZQ/viewform?usp=sharing&ouid=118376385452187767793).
 * [Helmholtz TeSSHub](https://tesshub.helmholtz.cloud) is the home of [PaN-Training](https://pan-training.eu/). It also has Spaces for ELIXIR, [DALIA](https://dalia.tesshub.hzdr.de/), [OERSI](https://oersi.tesshub.hzdr.de/) and others.
-* [TeSSHub4EOSC](https://tesshub4eosc.eu/) is a pilot service developed under the EOSC Gravity project, as a hub of community-managed training catalogues. Spaces can be created for EOSC Nodes, clusters and communities, such as [PaNOSC Node](https://panosc.tesshub4eosc.hzdr.de/) and [CERN Node](https://cern.tesshub4eosc.hzdr.de/). 
-* Other instances to be announced
+* [TeSSHub4EOSC](https://tesshub4eosc.eu/) is a pilot service developed under the EOSC Gravity project, as a hub of community-managed training catalogues. 
+  - Spaces can be created for EOSC Nodes, clusters and communities, such as [PaNOSC Node](https://panosc.tesshub4eosc.hzdr.de/) and [CERN Node](https://cern.tesshub4eosc.hzdr.de/). 
+  - See a [video demonstration of managing spaces and sources in TeSSHub4EOSC](https://youtu.be/UFLGVlTniJs).
+* Other instances to be announced.
 ```
 
 

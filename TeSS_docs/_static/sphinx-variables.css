@@ -2,18 +2,16 @@
 
 html[data-theme="light"] {
     --pst-color-primary: #F47D21;
+    --pst-color-secondary: #047eaa;
+    --pst-color-table-row-hover-bg: #b3dff4;
+    --pst-color-inline-code: #047eaa;
 }
 
 html[data-theme="dark"] {
     --pst-color-primary: #F47D21;
-}
-
-html[data-theme="light"] {
     --pst-color-secondary: #047eaa;
-}
-
-html[data-theme="dark"] {
-    --pst-color-secondary: #047eaa;
+    --pst-color-table-row-hover-bg: #047eaa;
+    --pst-color-inline-code: #b3dff4;
 }
 
 h1, h2, h3 {
